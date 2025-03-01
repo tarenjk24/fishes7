@@ -1,0 +1,48 @@
+Fishao Features to Include:
+Fishing Mechanics:
+
+*Different fishing spots with varied fish species.
+
+*Unique fish behaviors and rarity levels.
+
+*Fishing rods and bait customization.
+
+Tournaments:
+
+*Regular fishing tournaments with leaderboards and prizes.
+
+*Special events for rare fish.
+
+Character Customization:
+
+*Customizable avatars with outfits, accessories, and gear.
+
+*Personalized profiles and stats.
+
+World Map:
+
+*Multiple fishing locations like lakes, rivers, oceans, and ponds.
+
+*Hidden spots for rare fish.
+
+Social Interactions:
+
+*Chat features and friend lists.
+
+*Collaborative fishing sessions with friends.
+
+*Community events and challenges.
+
+Progression System:
+
+*Levels and experience points.
+
+*Achievements and badges.
+
+*Rewards for completing quests and challenges.
+
+Marketplace:
+
+*Virtual currency for buying gear and customization items.
+
+*Trading system for fish and gear.

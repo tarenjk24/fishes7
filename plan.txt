@@ -1,0 +1,38 @@
+Suggested Timeline
+Week 1: Learn Unity basics, set up the project, and prototype core mechanics.
+Week 2: Add progression (scoring, upgrades) and basic UI.
+Week 3: Add art, sound, and polish.
+Week 4: Test, fix bugs, and finalize the game.
+
+the Scope of Your Game: 
+  single player experience : 
+  basic mechanics: casting a line ( a zone where user stand a button pop up to cast line, mini pop game), 
+   catching fish( the percantage of catching a fish, the more upgraded the gear the more chance to get big fish),
+   fish types (small fish, meduim fish, large fish):rare: tuna 2k-10k, common:sardine 200g-2k, rare :shark 500g-15kg, very rare :whale 10kg-100k,very rare: octopus 800g-50kg, 
+   upgrading gear ( 3 levels of strenght for starters. shoes (influnce speed of walking), fishing rod(influnce speed of catching fish), fishing hook(chances of fish running away), fishing bait(the size of the fish) )
+  map: one beach, one river, player house (house decoration 2 varieties) ( character: can change between 2 variety of options clothes wise)
+  shop and currency: getting fish gives u happy pionts(), selling them gets u coins, use coins to buy better gear and more goods shops has 2 tabs
+  achievements: 10 achievments for starters
+story: 
+   wuffy wakes up in his dream world where all he has to do to survive is fishing. If he dont fish he looses happy piont and character looses coins.
+
+Coding : learn unity
+Prototype the Core Mechanics:
+  Create a simple scene with a fishing rod and water.
+  Write a script to cast the line (use mouse or keyboard input).
+  Add collision detection to simulate fish biting.
+  Implement a basic scoring system.
+
+Art and Assets:
+
+Create or download simple 2D/3D assets (e.g., fish, water, fishing rod).
+Use free assets from the Unity Asset Store or websites like Kenney.nl.
+
+UI:
+
+Add a simple menu, score display, and upgrade shop.
+
+Polish:
+
+Add sound effects (e.g., water splash, reel sound).
+Add particle effects (e.g., water splashes).
